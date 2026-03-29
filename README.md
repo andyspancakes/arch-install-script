@@ -11,6 +11,11 @@ just a silly tol i made to install arch.
 
 
 
+# Progess!
+Unfinished. Stuck at building yay.
+Thought: Packaging yay and putting it in the script.
+
+
 
 
 
