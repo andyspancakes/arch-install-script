@@ -1,6 +1,6 @@
 # arch-install-script
 just a silly tol i made to install arch.
-// Star history
+please do not try it yet it's still unfinished
 <a href="https://www.star-history.com/?repos=andyspancakes%2Farch-install-script&type=date&legend=bottom-right">
  <picture>
    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/image?repos=andyspancakes/arch-install-script&type=date&theme=dark&legend=bottom-right" />
